@@ -6,3 +6,7 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 
 Answer: Data Science can be applied to Machine Learning as it can help improve the quality and relevance of data used to train ML models. 
         An example of this could be Digital Wallets using data from fradulent users to help identify those users beforehand.
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging is when you want to add changes of a seperate branch into the base branch, whereas rebasing is when you want to add 
+changes in the base branch into the seperate branch
