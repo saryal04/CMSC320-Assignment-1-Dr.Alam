@@ -1,3 +1,7 @@
+Q1: Why might be consider using git?
+
+Answer: For source control, git is an essential tool for programmers. It is beneficial because you will never lose your older versions. 
+It also makes it easy to work with teams. 
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: Data Science can be applied to Machine Learning as it can help improve the quality and relevance of data used to train ML models. 
